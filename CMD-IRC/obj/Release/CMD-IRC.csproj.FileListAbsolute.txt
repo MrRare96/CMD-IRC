@@ -1,0 +1,6 @@
+C:\Users\Eldin\documents\visual studio 2013\Projects\CMD-IRC\CMD-IRC\bin\Release\CMD-IRC.exe.config
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\CMD-IRC\CMD-IRC\bin\Release\CMD-IRC.exe
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\CMD-IRC\CMD-IRC\bin\Release\CMD-IRC.pdb
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\CMD-IRC\CMD-IRC\obj\Release\CMD-IRC.csprojResolveAssemblyReference.cache
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\CMD-IRC\CMD-IRC\obj\Release\CMD-IRC.exe
+C:\Users\Eldin\Documents\Visual Studio 2013\Projects\CMD-IRC\CMD-IRC\obj\Release\CMD-IRC.pdb
